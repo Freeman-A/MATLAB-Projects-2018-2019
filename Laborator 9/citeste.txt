@@ -1,0 +1,2 @@
+LU este folderul pentru EX 4
+VolRezervor este functia de la EX 5
